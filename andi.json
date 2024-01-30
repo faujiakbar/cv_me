@@ -1,6 +1,8 @@
 {
     "name": "Andi Fauzi Akbar",
     "birth": "Bandung, 04 Juni 1987",
+    "email": "faujiakbar@gmail.com",
+    "phone": "+62 8156031997",
     "status": "Married",
     "child": "2",
     "description": "I can create website with PHP & Mysql. I know and learn javascript, laravel, lumen, vueJS, ionic, docker, JQuery, CodeIgniter, CSS. I know about linux or unix system. learning about network security and linux system.",
@@ -192,6 +194,10 @@
         {
             "social_type": "LinkedIn",
             "social_url": "https://www.linkedin.com/in/andi-fauzi-akbar/"
+        },
+        {
+            "social_type": "Whatsapp",
+            "social_url": "https://wa.me/628156031997"
         }
     ]
 }
