@@ -1,1 +1,197 @@
-{"name":"Andi Fauzi Akbar","birth":"Bandung, 04 Juni 1987","status":"Married","child":"2"}
+{
+    "name": "Andi Fauzi Akbar",
+    "birth": "Bandung, 04 Juni 1987",
+    "status": "Married",
+    "child": "2",
+    "description": "I can create website with PHP & Mysql. I know and learn javascript, laravel, lumen, vueJS, ionic, docker, JQuery, CodeIgniter, CSS. I know about linux or unix system. learning about network security and linux system.",
+    "educations": [
+        {
+            "grade": "Diploma 3",
+            "year_from": "2009",
+            "year_to": "2012",
+            "school_name": "Bina Sarana Informatika",
+            "grade_idea": "Informatics Management",
+            "grade_final": 3.55,
+            "grade_max": 4,
+            "grade_title": "Comelaude"
+        }
+    ],
+    "carriers": [
+        {
+            "carier_place": "PT Martina Berto Tbk",
+            "carier_title": "Leader IT Project",
+            "carier_description": "<ul><li>Lead team</li><li>Make change system from php 4 to Laravel with PHP 7 and PHP 8</li><li>CICD with Jenkins inside docker</li><li>Dockerize Project</li><li>Make change repository to local gitlab from subversion</li><li>Deploy apps with personal user to play store</li><li>Make apps with ionic framework</li><li>GPS, Photo, Notiﬁcation with ﬁrebase</li></ul>",
+            "carier_year_from": "2023",
+            "carier_month_from": "January",
+            "carier_year_to": "2024",
+            "carier_month_to": "January"
+        },
+        {
+            "carier_place": "Velocite Technology",
+            "carier_title": "PHP Developer",
+            "carier_description": "<p>Create Apps Project for government for documentation. I build apps with:</p><ul><li>Laravel</li><li>Minio</li><li>Docker</li><li>Rancher</li><li>Bitbucket</li></ul>",
+            "carier_year_from": "2021",
+            "carier_month_from": "January",
+            "carier_year_to": "2023",
+            "carier_month_to": "January"
+        },
+        {
+            "carier_place": "PT Asian Sigma Teknologi",
+            "carier_title": "PHP Programmer",
+            "carier_description": "<p>Work in client(PT. Kedai Sayur Indonesia), create commerce system application with:</p><ul><li>Laravel</li><li>PHP 7.3</li><li>Mysql</li><li>Javascript</li><li>JQuery</li><li>Bootstrap</li><li>Microservices api (but not all service api)</li></ul>",
+            "carier_year_from": "2019",
+            "carier_month_from": "October",
+            "carier_year_to": "2020",
+            "carier_month_to": "September"
+        },
+        {
+            "carier_place": "PT Sarana Makin Mulya",
+            "carier_title": "Programmer",
+            "carier_description": "<p>I was created warehouse application with:</p><ul><li>Docker</li><li>SQL Server</li><li>PHP</li><li>Javascript</li><li>Jquery</li><li>Bootstrap</li></ul>",
+            "carier_year_from": "2019",
+            "carier_month_from": "June",
+            "carier_year_to": "2019",
+            "carier_month_to": "September"
+        },
+        {
+            "carier_place": "PT Asian Technology Solution",
+            "carier_title": "Senior Programmer (PHP)",
+            "carier_description": "<p>Create new project for Serasi Autoraya PT. \"Outsource HR\"with framework Codeigniter and C#(for services), and help other teams. Create Bidding Apps(Sell Cars, Motor Bike, Smartphone, Heavy Vehicle) for IBID (Astra Group).</p>",
+            "carier_year_from": "2017",
+            "carier_month_from": "March",
+            "carier_year_to": "2018",
+            "carier_month_to": "August"
+        },
+        {
+            "carier_place": "PT Sima Soareka Indonesia",
+            "carier_title": "Senior PHP Programmer",
+            "carier_description": "<p>Create new project for HR. Framework I use zend framework, wordpress and laravel lumen.</p>",
+            "carier_year_from": "2016",
+            "carier_month_from": "August",
+            "carier_year_to": "2017",
+            "carier_month_to": "January"
+        },
+        {
+            "carier_place": "PT. Ezy IT Informatika",
+            "carier_title": "PHP Programmer",
+            "carier_description": "<p>Create Project for POS System.<br><br>Client in Singapore, like:<br>Yonghuat, The Skin Pharmachy, and The Paper Stone</p>",
+            "carier_year_from": "2014",
+            "carier_month_from": "September",
+            "carier_year_to": "2016",
+            "carier_month_to": "October"
+        },
+        {
+            "carier_place": "INVOSA SYSTEMS, PT.",
+            "carier_title": "PHP Programmer",
+            "carier_description": "<p>Update software and maintenance HRMS System with Webbased, include instalation linux server like centos linux and ubuntu linux server</p>",
+            "carier_year_from": "2012",
+            "carier_month_from": "October",
+            "carier_year_to": "2014",
+            "carier_month_to": "September"
+        },
+        {
+            "carier_place": "BPR Mitra Rukun Mandiri",
+            "carier_title": "IT Staﬀ",
+            "carier_description": "<p>RESPONSIBILITIES:<br>To manage of information from debitor and input data to system.<br><br>REASON FOR LEAVING:<br>My salary isn't enough to life near of my work and my work is too far from my house.<br><br>PROJECT COMPLETE:<br>Instalation of network in there and manage software instalation for bank system.</p>",
+            "carier_year_from": "2012",
+            "carier_month_from": "February",
+            "carier_year_to": "2012",
+            "carier_month_to": "April"
+        }
+    ],
+    "language": [
+        {
+            "lang_name": "English",
+            "lang_grade": 3
+        },
+        {
+            "lang_name": "Indonesia",
+            "lang_grade": 4
+        },
+        {
+            "lang_name": "Sundanese",
+            "lang_grade": 5
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "Docker",
+            "skill_grade": 5
+        },
+        {
+            "skill_name": "PHP",
+            "skill_grade": 5
+        },
+        {
+            "skill_name": "Linux (Ubuntu, Centos, Arch, Debian, Redhat, Fedora)",
+            "skill_grade": 5
+        },
+        {
+            "skill_name": "Laravel Framework",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Lumen Framework",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "VueJS Framework",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Ionic Framework + VueJS",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Codeigniter Framework",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Jenkins",
+            "skill_grade": 3
+        },
+        {
+            "skill_name": "GIT",
+            "skill_grade": 5
+        },
+        {
+            "skill_name": "MySQL",
+            "skill_grade": 5
+        },
+        {
+            "skill_name": "PostgreSQL",
+            "skill_grade": 5
+        },
+        {
+            "skill_name": "Microsoft SQL Server",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Github",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Gitlab",
+            "skill_grade": 4
+        },
+        {
+            "skill_name": "Bitbucket",
+            "skill_grade": 4
+        }
+    ],
+    "tools": [
+        "Visual Studio Code",
+        "Linux Endearvous OS",
+        "Firefox",
+        "Chrome",
+        "Teamviewers",
+        "Google Meets",
+        "AnyDesk"
+    ],
+    "socials": [
+        {
+            "social_type": "LinkedIn",
+            "social_url": "https://www.linkedin.com/in/andi-fauzi-akbar/"
+        }
+    ]
+}
