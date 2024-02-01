@@ -8,7 +8,7 @@
     "description": "I can create website with PHP & Mysql. I know and learn javascript, laravel, lumen, vueJS, ionic, docker, JQuery, CodeIgniter, CSS. I know about linux or unix system. learning about network security and linux system.",
     "educations": [
         {
-            "grade": "Diploma 3",
+            "grade": "Diploma III",
             "year_from": "2009",
             "year_to": "2012",
             "school_name": "Bina Sarana Informatika",
@@ -125,7 +125,7 @@
             "skill_grade": 5
         },
         {
-            "skill_name": "Linux (Ubuntu, Centos, Arch, Debian, Redhat, Fedora)",
+            "skill_name": "Linux (Ubuntu, Centos, Arch, Debian, Redhat, etc)",
             "skill_grade": 5
         },
         {
